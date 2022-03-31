@@ -1,4 +1,4 @@
--  I’m @YoshiiTatsuki
+-  I’m @Tatsuki Yoshii
 -  
 <!---
 YoshiiTatsuki/YoshiiTatsuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
